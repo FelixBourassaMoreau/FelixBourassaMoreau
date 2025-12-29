@@ -69,8 +69,8 @@
 <div align="center">
   <h3>📊 GitHub 统计数据</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=cn" alt="Felix 的 GitHub 统计数据" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=cn" alt="常用语言" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=cn" alt="Felix 的 GitHub 统计数据" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=cn" alt="常用语言" />
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue&label=%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%AE%BF%E9%97%AE%E9%87%8F" alt="个人资料访问量" />

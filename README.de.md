@@ -69,8 +69,8 @@
 <div align="center">
   <h3>📊 GitHub-Statistiken</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=de" alt="Felixs GitHub-Statistiken" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=de" alt="Top-Sprachen" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=de" alt="Felixs GitHub-Statistiken" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=de" alt="Top-Sprachen" />
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue&label=Profilaufrufe" alt="Profilaufrufe" />
