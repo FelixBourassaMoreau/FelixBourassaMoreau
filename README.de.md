@@ -1,35 +1,35 @@
 <div align="center">
-  <a href="README.md"><b>English</b></a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.es.md">Español</a> | <a href="README.zh.md">中文</a>
+  <a href="README.md">English</a> | <a href="README.fr.md">Français</a> | <a href="README.de.md"><b>Deutsch</b></a> | <a href="README.es.md">Español</a> | <a href="README.zh.md">中文</a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Felix+Bourassa+Moreau;Software+%26+Mechanical;Building+Digital+Solutions;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Felix+Bourassa+Moreau;Software-+%26+Maschinenbauingenieur;Digitale+L%C3%B6sungen+bauen;Hardware+%26+Software+verbinden" alt="Typing SVG" />
 </div>
 
-> Bridging the gap between hardware and software, specialized in MedTech and IoT.
+> Die Lücke zwischen Hardware und Software schließen, spezialisiert auf MedTech und IoT.
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>🛠️ The Engineer's Mindset</h3>
-      <p>With a strong foundation in <b>Mechanical Engineering</b>, I have transitioned into building digital solutions for the physical world. I am a professional developer focused on the intersection of hardware and software.</p>
-      <p>My expertise lies in creating integrated systems for the <b>MedTech industry</b>—from designing custom electronics to developing scalable mobile applications and training specialized AI models.</p>
+      <h3>🛠️ Die Ingenieurs-Denkweise</h3>
+      <p>Mit einem starken Fundament im <b>Maschinenbau</b> bin ich dazu übergegangen, digitale Lösungen für die physische Welt zu bauen. Ich bin ein professioneller Entwickler mit Fokus auf der Schnittstelle von Hardware und Software.</p>
+      <p>Meine Expertise liegt in der Schaffung integrierter Systeme für die <b>MedTech-Industrie</b>—vom Entwurf maßgeschneiderter Elektronik über die Entwicklung skalierbarer mobiler Apps bis hin zum Training spezialisierter KI-Modelle.</p>
     </td>
     <td width="40%" valign="top">
-      <h3>🔭 Current Focus</h3>
+      <h3>🔭 Aktueller Fokus</h3>
       <ul>
-        <li>📱 Building Mobile Apps</li>
-        <li>🤖 Training AI Models</li>
-        <li>⚡ Designing Electronics</li>
-        <li>🎨 Designing Art Projects</li>
-        <li>🧗 Climbing Rocks</li>
+        <li>📱 Entwicklung mobiler Apps</li>
+        <li>🤖 Training von KI-Modellen</li>
+        <li>⚡ Elektronikdesign</li>
+        <li>🎨 Kunstprojekte entwerfen</li>
+        <li>🧗 Klettern</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3>💻 Technical Arsenal</h3>
-      <p><b>Languages</b><br>
+      <h3>💻 Technisches Arsenal</h3>
+      <p><b>Sprachen</b><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -59,20 +59,20 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🧗 Offline Mode</h3>
-      <p>When I'm not soldering circuits or deploying code, I'm usually solving problems on the wall.</p>
-      <p>📸 <b><a href="https://www.instagram.com/felix._.bm/">View my Climbing Portfolio on Instagram</a></b></p>
+      <h3>🧗 Offline-Modus</h3>
+      <p>Wenn ich keine Schaltkreise löte oder Code deploie, löse ich normalerweise Probleme an der Wand.</p>
+      <p>📸 <b><a href="https://www.instagram.com/felix._.bm/">Mein Kletter-Portfolio auf Instagram ansehen</a></b></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 GitHub-Statistiken</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical" alt="Felix's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=de" alt="Felixs GitHub-Statistiken" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=de" alt="Top-Sprachen" />
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue&label=Profilaufrufe" alt="Profilaufrufe" />
   </p>
 </div>

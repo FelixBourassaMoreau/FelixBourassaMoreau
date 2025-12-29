@@ -1,35 +1,35 @@
 <div align="center">
-  <a href="README.md"><b>English</b></a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.es.md">Español</a> | <a href="README.zh.md">中文</a>
+  <a href="README.md">English</a> | <a href="README.fr.md">Français</a> | <a href="README.de.md">Deutsch</a> | <a href="README.es.md"><b>Español</b></a> | <a href="README.zh.md">中文</a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Felix+Bourassa+Moreau;Software+%26+Mechanical;Building+Digital+Solutions;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Felix+Bourassa+Moreau;Ingeniero+de+Software+y+Mec%C3%A1nica;Construyendo+Soluciones+Digitales;Uniendo+Hardware+y+Software" alt="Typing SVG" />
 </div>
 
-> Bridging the gap between hardware and software, specialized in MedTech and IoT.
+> Uniendo el hardware y el software, especializado en MedTech e IoT.
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>🛠️ The Engineer's Mindset</h3>
-      <p>With a strong foundation in <b>Mechanical Engineering</b>, I have transitioned into building digital solutions for the physical world. I am a professional developer focused on the intersection of hardware and software.</p>
-      <p>My expertise lies in creating integrated systems for the <b>MedTech industry</b>—from designing custom electronics to developing scalable mobile applications and training specialized AI models.</p>
+      <h3>🛠️ La Mentalidad del Ingeniero</h3>
+      <p>Con una sólida base en <b>Ingeniería Mecánica</b>, he transicionado hacia la construcción de soluciones digitales para el mundo físico. Soy un desarrollador profesional enfocado en la intersección de hardware y software.</p>
+      <p>Mi experiencia radica en la creación de sistemas integrados para la <b>industria MedTech</b>—desde el diseño de electrónica personalizada hasta el desarrollo de aplicaciones móviles escalables y el entrenamiento de modelos de IA especializados.</p>
     </td>
     <td width="40%" valign="top">
-      <h3>🔭 Current Focus</h3>
+      <h3>🔭 Enfoque Actual</h3>
       <ul>
-        <li>📱 Building Mobile Apps</li>
-        <li>🤖 Training AI Models</li>
-        <li>⚡ Designing Electronics</li>
-        <li>🎨 Designing Art Projects</li>
-        <li>🧗 Climbing Rocks</li>
+        <li>📱 Creación de Apps Móviles</li>
+        <li>🤖 Entrenamiento de Modelos de IA</li>
+        <li>⚡ Diseño de Electrónica</li>
+        <li>🎨 Diseño de Proyectos de Arte</li>
+        <li>🧗 Escalada</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3>💻 Technical Arsenal</h3>
-      <p><b>Languages</b><br>
+      <h3>💻 Arsenal Técnico</h3>
+      <p><b>Lenguajes</b><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       </p>
-      <p><b>Cloud & Tools</b><br>
+      <p><b>Nube y Herramientas</b><br>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
@@ -59,20 +59,20 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🧗 Offline Mode</h3>
-      <p>When I'm not soldering circuits or deploying code, I'm usually solving problems on the wall.</p>
-      <p>📸 <b><a href="https://www.instagram.com/felix._.bm/">View my Climbing Portfolio on Instagram</a></b></p>
+      <h3>🧗 Modo Offline</h3>
+      <p>Cuando no estoy soldando circuitos o desplegando código, generalmente estoy resolviendo problemas en la pared.</p>
+      <p>📸 <b><a href="https://www.instagram.com/felix._.bm/">Ver mi portafolio de escalada en Instagram</a></b></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 Estadísticas de GitHub</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical" alt="Felix's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical&locale=es" alt="Lenguajes Principales" />
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue&label=Vistas+del+perfil" alt="Vistas del perfil" />
   </p>
 </div>
