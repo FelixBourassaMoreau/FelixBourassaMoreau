@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+%26+Mechanical+Engineer;Building+Digital+Solutions;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Felix+Bourassa+Moreau;Software+%26+Mechanical;Building+Digital+Solutions;Bridging+Hardware+%26+Software" alt="Typing SVG" />
 </div>
 
 > Bridging the gap between hardware and software, specialized in MedTech and IoT.
