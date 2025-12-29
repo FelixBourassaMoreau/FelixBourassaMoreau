@@ -6,7 +6,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>🛠️ The Engineer's Mindset</h3>
-      <p>With a strong foundation in <b>Mechanical Engineering</b>, I have transitioned into building digital solutions for the physical world. I am not a student; I am a professional developer focused on the intersection of hardware and software.</p>
+      <p>With a strong foundation in <b>Mechanical Engineering</b>, I have transitioned into building digital solutions for the physical world. I am a professional developer focused on the intersection of hardware and software.</p>
       <p>My expertise lies in creating integrated systems for the <b>MedTech industry</b>—from designing custom electronics to developing scalable mobile applications and training specialized AI models.</p>
     </td>
     <td width="40%" valign="top">
