@@ -1,4 +1,6 @@
-# Hi there! I build Software & Electronics for the MedTech industry.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+%26+Mechanical+Engineer;Building+Digital+Solutions;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+</div>
 
 > Bridging the gap between hardware and software, specialized in MedTech and IoT.
 
@@ -59,3 +61,14 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=FelixBourassaMoreau&show_icons=true&theme=radical" alt="Felix's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixBourassaMoreau&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=FelixBourassaMoreau&style=flat-square&color=blue" alt="Profile Views" />
+  </p>
+</div>
