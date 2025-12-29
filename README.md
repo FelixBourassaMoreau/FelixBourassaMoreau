@@ -1,4 +1,4 @@
-# Hi there! I'm a Software & Mechanical Engineer.
+# Hi there! I build Software & Electronics for the MedTech industry.
 
 > Bridging the gap between hardware and software, specialized in MedTech and IoT.
 
